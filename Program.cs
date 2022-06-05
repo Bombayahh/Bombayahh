@@ -1,0 +1,13 @@
+﻿namespace HelloWorld
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("What is your name?");
+            var name = Console.ReadLine();
+            var CurrentDate = DateTime.Now;
+            Console.WriteLine($"User name is {name},and the date is {CurrentDate:d}");
+        }
+    }
+}
