@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tengk\\Documents\\Csharp_Projects\\Csharp_Projects.csproj": {}
+    "C:\\Users\\tengk\\App\\Csharp_Projects\\Csharp_Projects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tengk\\Documents\\Csharp_Projects\\Csharp_Projects.csproj": {
+    "C:\\Users\\tengk\\App\\Csharp_Projects\\Csharp_Projects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tengk\\Documents\\Csharp_Projects\\Csharp_Projects.csproj",
+        "projectUniqueName": "C:\\Users\\tengk\\App\\Csharp_Projects\\Csharp_Projects.csproj",
         "projectName": "Csharp_Projects",
-        "projectPath": "C:\\Users\\tengk\\Documents\\Csharp_Projects\\Csharp_Projects.csproj",
+        "projectPath": "C:\\Users\\tengk\\App\\Csharp_Projects\\Csharp_Projects.csproj",
         "packagesPath": "C:\\Users\\tengk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tengk\\Documents\\Csharp_Projects\\obj\\",
+        "outputPath": "C:\\Users\\tengk\\App\\Csharp_Projects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tengk\\AppData\\Roaming\\NuGet\\NuGet.Config"
