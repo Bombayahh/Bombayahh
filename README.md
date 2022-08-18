@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bombayahh
-- 👀 I’m interested in becoming a nerd
+- 👀 I’m interested in becoming software engineer
 - 🌱 I’m currently coding for fun
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m involving in microwave and high frequency related engineering.
 - 📫 How to reach me, .
 
 <!---
