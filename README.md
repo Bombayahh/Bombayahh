@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bombayahh
 - 👀 I’m interested in studying different knowledge
 - 🌱 I’m currently coding for fun
-- 💞️ Currently main job involve in automating test equipments for RF measurement.
+- 💞️ Main job involved in automating test equipments for RF measurement.
 
 <!---
 Bombayahh/Bombayahh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
